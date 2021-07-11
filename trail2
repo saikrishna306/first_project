@@ -1,4 +1,9 @@
-ndjkdmejfnedc  xmswmdkwqkm
-sjwndjwndjwljkwm x c 
-ns dnwjndjwndjn mc m
-msx,wndkwjndjkdm m,
+/* HelloWorld.java
+ */
+
+public class HelloWorld
+{
+	public static void main(String[] args) {
+		System.out.println("Hello World!");
+	}
+}
